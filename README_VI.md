@@ -24,8 +24,8 @@ Mục tiêu chính là xây dựng mô hình hồi quy tuyến tính để đo l
 
 ## 📈 Kết quả nổi bật
 * **Tương quan (Correlation):** Tìm thấy mối tương quan dương mạnh mẽ giữa biến động giá Dầu và cổ phiếu ngành Năng lượng.
-* **Độ nhạy (Sensitivity):** Kết quả mô hình OLS cho thấy với mỗi **1%** thay đổi của giá Dầu, ETF Năng lượng dự kiến thay đổi khoảng **[Điền số Beta của bạn vào đây, ví dụ: 0.54]%**.
-* **Độ tin cậy ($R^2$):** Mô hình giải thích được khoảng **[Điền R2, ví dụ: 45]%** sự biến động của giá cổ phiếu năng lượng.
+* **Độ nhạy (Sensitivity):** Kết quả mô hình OLS cho thấy với mỗi **1%** thay đổi của giá Dầu, ETF Năng lượng dự kiến thay đổi khoảng 36.355%.
+* **Độ tin cậy ($R^2$):** Mô hình giải thích được khoảng 28.57% sự biến động của giá cổ phiếu năng lượng.
 * **Giới hạn:** Phân tích phần dư cho thấy sự hiện diện của hiện tượng phương sai thay đổi (Heteroscedasticity) trong các giai đoạn thị trường biến động mạnh, gợi ý cần sử dụng các mô hình nâng cao hơn như GARCH.
 
 ## ⚠️ Tuyên bố miễn trừ trách nhiệm
